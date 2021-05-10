@@ -7,7 +7,7 @@ The goal of this project is to analyze and describe the development of an easy-t
 
 ## Documents
 The project includes two assignments:
-* The preparation of a Requirement Analysis and Specification Document (RASD) for a problem we provide you.
+* The preparation of a Requirement Analysis and Specification Document (RASD) for the application provided
 * The definition of the Design Document (DD) for the system CLup.
 
 ## List of Authors:
