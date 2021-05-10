@@ -3,7 +3,7 @@
 This is the repository for the project for the course "Software Engineering 2" at [Politecnico di Milano](https://www.polimi.it "Learn more about Politecnico di Milano")
 
 ## CLup - Customers Line-up
-The goal of this project is to analyze and describe the development of an easy-to-use supermarket application that, on the one side, allows store managers to regulate the influx of people in the building and, on the other side, saves people from having to line up and stand outside of stores for hours on end. More info here: [specs](https://github.com/arigalzi/RASD-DD-Project-2021/Specification.pdf)
+The goal of this project is to analyze and describe the development of an easy-to-use supermarket application that, on the one side, allows store managers to regulate the influx of people in the building and, on the other side, saves people from having to line up and stand outside of stores for hours on end. More info here: [specs](https://github.com/arigalzi/RASD-DD-Project-2021/blob/master/Specification.pdf)
 
 ## Documents
 The project includes two assignments:
